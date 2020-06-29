@@ -6,7 +6,7 @@
 </th>
 </tr>
 <tr>
-<td colspan="2"><a class="image" title="Tolstoy on 23 May 1908 at Yasnaya Polyana, photo by Sergey Prokudin-Gorsky" href="220px-L.N.Tolstoy_Prokudin-Gorsky.jpg"><img src="220px-L.N.Tolstoy_Prokudin-Gorsky.jpg" srcset="220px-L.N.Tolstoy_Prokudin-Gorsky.jpg" alt="Tolstoy on 23 May 1908 at Yasnaya Polyana, photo by Sergey Prokudin-Gorsky" width="220" height="296" data-file-width="1840" data-file-height="2476" /></a>
+<td colspan="2"><a class="image" title="Tolstoy on 23 May 1908 at Yasnaya Polyana, photo by Sergey Prokudin-Gorsky" href="220px-L.N.Tolstoy_Prokudin-Gorsky.png"><img src="220px-L.N.Tolstoy_Prokudin-Gorsky.png" srcset="220px-L.N.Tolstoy_Prokudin-Gorsky.png" alt="Tolstoy on 23 May 1908 at Yasnaya Polyana, photo by Sergey Prokudin-Gorsky" width="220" height="296" data-file-width="1840" data-file-height="2476" /></a>
 <div>Tolstoy on 23 May 1908 at&nbsp;<a title="Yasnaya Polyana" href="https://en.wikipedia.org/wiki/Yasnaya_Polyana">Yasnaya Polyana</a>,<sup id="cite_ref-1" class="reference"></sup>&nbsp;photo by&nbsp;<a title="Sergey Prokudin-Gorsky" href="https://en.wikipedia.org/wiki/Sergey_Prokudin-Gorsky">Sergey Prokudin-Gorsky</a></div>
 </td>
 </tr>
